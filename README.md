@@ -28,7 +28,7 @@ A beautiful, responsive website for Restored Masonry, specializing in heritage m
 ## Local Development
 
 1. Clone the repository
-2. Open `index.html` in your browser
+2. Open `home.html` in your browser
 3. For a local server, use Python:
    ```bash
    python3 -m http.server 8000
